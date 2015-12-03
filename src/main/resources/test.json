@@ -1,0 +1,28 @@
+{
+  "records":[
+    {
+			"gbifid":1,
+			"datasetkey":"abcd",
+			"lat":25.12345,
+			"lng":79.78901,
+			"date":1234500000,
+			"collector":"bill"
+    },
+    {
+			"gbifid":2,
+			"datasetkey":"defg",
+			"lat":25.12345,
+			"lng":79.78901,
+			"date":1234500000,
+			"collector":"bill"
+    },
+    {
+			"gbifid":3,
+			"datasetkey":"hijk",
+			"lat":16.971,
+			"lng":-5.123,
+			"date":2234500000,
+			"collector":"bill"
+    }
+	]
+}
